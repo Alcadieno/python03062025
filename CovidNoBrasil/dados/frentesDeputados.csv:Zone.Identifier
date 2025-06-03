@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://dadosabertos.camara.leg.br/swagger/api.html?tab=staticfile
+HostUrl=https://dadosabertos.camara.leg.br/arquivos/frentesDeputados/csv/frentesDeputados.csv
